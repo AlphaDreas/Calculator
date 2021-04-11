@@ -1,0 +1,10 @@
+D:\Win_Calc\Win_Calc\bin\Debug\Win_Calc.exe.config
+D:\Win_Calc\Win_Calc\bin\Debug\Win_Calc.exe
+D:\Win_Calc\Win_Calc\bin\Debug\Win_Calc.pdb
+D:\Win_Calc\Win_Calc\obj\Debug\Win_Calc.csprojAssemblyReference.cache
+D:\Win_Calc\Win_Calc\obj\Debug\Win_Calc.Form1.resources
+D:\Win_Calc\Win_Calc\obj\Debug\Win_Calc.Properties.Resources.resources
+D:\Win_Calc\Win_Calc\obj\Debug\Win_Calc.csproj.GenerateResource.cache
+D:\Win_Calc\Win_Calc\obj\Debug\Win_Calc.csproj.CoreCompileInputs.cache
+D:\Win_Calc\Win_Calc\obj\Debug\Win_Calc.exe
+D:\Win_Calc\Win_Calc\obj\Debug\Win_Calc.pdb
